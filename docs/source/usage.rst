@@ -34,4 +34,4 @@ For example:
 
 To mix ingredients in a bowl, use ``lumache.mixing_bowls()``:
 
-(The autofunction will go here once it exists)
+.. autofunction:: lumache.mixing_bowls

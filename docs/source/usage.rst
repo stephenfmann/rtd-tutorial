@@ -32,3 +32,6 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+To mix ingredients in a bowl, use ``lumache.mixing_bowls()``:
+
+(The autofunction will go here once it exists)
